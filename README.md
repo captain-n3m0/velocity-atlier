@@ -2,10 +2,6 @@
 
 Velocity Atelier is an immersive editorial landing experience for a private hypercar atelier. It presents a cinematic, high-performance brand surface with scroll-driven motion, magnetic interactions, custom cursor treatment, and a refined visual system built around luxury automotive storytelling.
 
-## GitHub Description
-
-Immersive TanStack Start landing page for a fictional private hypercar atelier, built with React, Tailwind CSS, GSAP, Lenis, and Cloudflare Workers.
-
 ## Features
 
 - Cinematic full-screen hero with responsive image treatment
