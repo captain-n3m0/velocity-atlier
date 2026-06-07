@@ -2,6 +2,16 @@
 
 Velocity Atelier is an immersive editorial landing experience for a private hypercar atelier. It presents a cinematic, high-performance brand surface with scroll-driven motion, magnetic interactions, custom cursor treatment, and a refined visual system built around luxury automotive storytelling.
 
+## Design Highlights
+
+Screenshots captured from the rendered site in Chrome after the entrance and scroll animations settle.
+
+![Velocity Atelier hero with cinematic hypercar art direction](docs/screenshots/velocity-hero.png)
+
+![Velocity Atelier collection section with editorial vehicle showcase](docs/screenshots/velocity-collection.png)
+
+![Velocity Atelier performance metrics section with animated counters](docs/screenshots/velocity-metrics.png)
+
 ## Features
 
 - Cinematic full-screen hero with responsive image treatment
@@ -112,4 +122,3 @@ dist/
 - The app is optimized for a polished, visual-first brand presentation.
 - Use Bun for installs so the committed `bun.lock` remains the source of truth.
 - The Cloudflare deployment should be treated as a Worker with static assets, not as a static-only Pages deployment.
-
